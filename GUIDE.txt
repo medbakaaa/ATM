@@ -1,0 +1,14 @@
+
+Pour s'authentifier tant qu'employer:
+
+EMPLOYER NOM:     mohamed
+EMPLOYER PIN:     1234
+
+	Un employer peut créer des comptes pour des clients(nouveaux ou ancients), récupérer le pin d'un compte à partir du numéro de RIB. et il peut aussi faire des operations sur un compte donnée. 
+
+
+Pour s'authentifier tant que client:
+
+	Il existe un fichier dans "\ATMProject\src\Classes\lesCompte" qui contient des pins des ancients compte que j'avais déja crée ou bien c'est tu crée un compte tu trouvra son pin et rib dans ce fichier et tu commence a tester.
+	un client peut faire plusieur operation sur son compte, que ca soit des dépot, des retrait ou des verment, et il peut aussi afficher le relver des anciennes operations. 
+
