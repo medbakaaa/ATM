@@ -1,0 +1,4 @@
+compteEpargne:0	pin:8896	rib:655241145	Id:JH55
+comptePayant:1	pin:5253	rib:569507584	Id:JH55
+compteEpargne:2	pin:5384	rib:285910032	Id:JH22
+comptePayant:3	pin:6528	rib:794961391	Id:JH22
